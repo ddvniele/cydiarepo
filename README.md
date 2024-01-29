@@ -2,7 +2,7 @@
 this is my open source cydia repository which contains all the tweaks I've made so far.
 
 ## Add to your packages manager
-- Add this link to your package manager https://ddvniele.github.io/cydiarepo or...
+- Add https://ddvniele.github.io/cydiarepo to your package manager, or
   - [Add to Cydia](cydia://url/https://cydia.saurik.com/api/share#?source=https://ddvniele.github.io/cydiarepo)
   - [Add to Sileo](sileo://source/https://ddvniele.github.io/cydiarepo)
   - [Add to Zebra](zbra://sources/add/https://ddvniele.github.io/cydiarepo)
