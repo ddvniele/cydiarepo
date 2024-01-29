@@ -3,6 +3,7 @@ this is my open source cydia repository which contains all the tweaks I've made 
 
 ## Add to your package manager
 - Add https://ddvniele.github.io/cydiarepo to your package manager
+  - You can also import them automatically to Cydia, Sileo, Zebra or Installer opening the link
 
 ### Thanks to
 I'd like to thank so much [supermamon](https://github.com/supermamon/), and in particular his project [Reposi3](https://github.com/supermamon/Reposi3), which I forked to do this. :)
