@@ -11,8 +11,9 @@ these are the tweaks you can find on my repo:
 
 ## ⏳ Next Goals
 - already done:
-  - new restyled website for repo
+  - new restyled website for the repo
 - coming soon:
+  - clean up the code for the repo's website
   - collecting and adding all the tweaks I've made during the past years
   - new restyled website for tweak depictions
   - so much more! these features are still a work-in-progress.
