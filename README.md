@@ -10,9 +10,12 @@ these are the tweaks you can find on my repo:
 - nothing here for now. publishing tweaks as soon as possible ;)
 
 ## ⏳ Next Goals
-- collecting and adding all the tweaks I've made during the past years
-- new restyled website for repo and tweaks depictions
-- so much more! these features are still a work-in-progress.
+- already done:
+  - new restyled website for repo
+- coming soon:
+  - collecting and adding all the tweaks I've made during the past years
+  - new restyled website for tweak depictions
+  - so much more! these features are still a work-in-progress.
 
 ### 💟 Thanks to
 I'd like to thank so much [supermamon](https://github.com/supermamon/) and in particular his project [Reposi3](https://github.com/supermamon/Reposi3), which I forked to do this!
