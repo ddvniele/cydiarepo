@@ -1,3 +1,6 @@
+> [!WARNING]
+> deprecated. use my new [jbrepo](https://ddvniele.github.io/jbrepo) instead.
+
 # 📂 Dan's Repo
 this is my open source cydia repository which contains all the tweaks I've made so far.
 
