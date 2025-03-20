@@ -7,7 +7,8 @@ this is my open source cydia repository which contains all the tweaks I've made 
 
 ## 🛠️ Tweaks
 these are the tweaks you can find on my repo:
-- nothing here for now. publishing tweaks as soon as possible ;)
+- Amury Reborn (rootful)
+  - new tweaks coming soon, stay tuned :)
 
 ## ⏳ Next Goals
 - already done:
